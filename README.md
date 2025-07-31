@@ -3,7 +3,7 @@
 # Project Overview
 This project focuses on a comprehensive Customer Churn Analysis conducted for TekUp, a fictional B2C brand operating across Germany, France, and Spain. The dashboard is designed to help business stakeholders understand why customers are leaving, who’s most at risk, and what can be done to retain them.
 
-# Tools Used: Power BI, DAX, Power Query, Excel, Canva
+# Tools Used: Power BI, DAX, Power Query, Canva
 
 # Key Insights & Features
 
