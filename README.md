@@ -7,7 +7,7 @@ This project focuses on a comprehensive Customer Churn Analysis conducted for Te
 
 # Key Insights & Features
 
-🟩 KPIs Tracked:
+# KPIs Tracked:
 - Total Customers: 10,000
 
 - Total Churned: 2,037
@@ -16,7 +16,7 @@ This project focuses on a comprehensive Customer Churn Analysis conducted for Te
 
 - Average Age of Churned Customers: 44.84
 
-📊 Visuals & Analysis:
+# Visuals & Analysis:
 - Churn Trends by Gender: Females show higher churn rates than males
 
 - Churn by Region: Slightly higher churn in France (39.96%) and Spain (39.76%) than Germany (20.27%)
@@ -42,7 +42,7 @@ Canva -	Icon and branding elements
 
 - Communicating technical work to non-technical audiences
 
-  ✅ How This Adds Business Value
+# How This Adds Business Value
   
 This dashboard enables teams to:
 
@@ -67,8 +67,8 @@ This dashboard enables teams to:
 
 # About Me
 Precious Benjamin
-🎯 Data Scientist | Analyst | BI Developer
-🌍 Passionate about data-driven storytelling, real-world business solutions, and empowering brands with insights that matter.
+Data Scientist | Analyst | BI Developer
+Passionate about data-driven storytelling, real-world business solutions, and empowering brands with insights that matter.
 
 
 
